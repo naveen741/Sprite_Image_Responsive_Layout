@@ -48,8 +48,7 @@
 }
 .sign-in{
     background-color: rgb(152, 206, 253);
-    flex-wrap: wrap;
-    flex: 33%;
+    flex: 100%;
 }
 .content{
     background-color: rgb(211, 233, 253);
